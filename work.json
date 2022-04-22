@@ -96,10 +96,6 @@
                 }
               }
             },
-            
-    "func1":{
-
-    },
             "default": {
               "description": "unexpected error",
               "content": {
