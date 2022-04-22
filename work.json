@@ -549,6 +549,10 @@
             }
           ]
         },
+        
+    "func2":{
+"sfsafs":"asdfsadf"
+    },
         "put": {
           "deprecated": false,
           "description": "Update a record",
@@ -1123,6 +1127,9 @@
           }
         }
       }
+    },
+    "func3":{
+
     },
     "tags": [
       {
